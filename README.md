@@ -1,5 +1,5 @@
 <p align="center">   
-  <img src="https://profile-counter.glitch.me/apolo.sys/count.svg" />  
+  ![](https://komarev.com/ghpvc/?username=syn1xx&color=green) 
 </p>
 
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
