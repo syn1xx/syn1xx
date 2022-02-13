@@ -1,5 +1,5 @@
 <p align="center">   
-  [!{Vistas](https://komarev.com/ghpvc/?username=syn1xx&color=green) 
+ ![](https://komarev.com/ghpvc/?username=syn1xx&color=brightgreen)
 </p>
 
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
