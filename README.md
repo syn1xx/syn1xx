@@ -17,7 +17,7 @@
 
 ![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
-![discord](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
+![discord](https://img.shields.io/badge/discord.py-black?style=flat-square&logo=discord)
 ![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
 
 ### DevOps & Tools
