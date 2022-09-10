@@ -1,8 +1,6 @@
 <p align="center">
   <a href="https://github.com/syn1xx?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%syn1xx"/></a>
-  <a href="https://github.com/syn1xx?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/syn1xx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/syn1xx/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=syn1xx&style=for-the-badge&color=lightgrey"/></a>
 </p>
@@ -46,11 +44,6 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-    <img height="124px" src="https://github-readme-streak-stats.herokuapp.com/?user=uhmpasterig&hide_border=true&theme=dark" />
+    <img height="124px" src="https://github-readme-streak-stats.herokuapp.com/?user=syn1xx&hide_border=true&theme=dark" />
     <img height="124px" src="https://github-readme-stats.vercel.app/api?username=uhmpasterig&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
 
-## ⚡ GitHub Stats
-
-<p align="center">
-    <img height="124px" src="https://github-readme-streak-stats.herokuapp.com/?user=syn1xx&hide_border=true&theme=dark" />
-    <img height="12
