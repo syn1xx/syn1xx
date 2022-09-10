@@ -27,9 +27,7 @@
 ![windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows&logoColor=0078D6)
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
-![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=github-actions)
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
-![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
 ![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
 
 ## ⚡ GitHub Stats
